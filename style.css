@@ -1,4 +1,21 @@
-body {
-    text-align: center;
+.card{
+    background: #fff;
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    
 }
 
+img{
+    float: left;
+    margin: 10px;
+    width: 250px;
+}
+
+.card{
+    margin:60px;
+}
+
+.about-me-card{
+    display:block;
+}
