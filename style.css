@@ -3,36 +3,14 @@
     max-width: 950px;
     margin: 0 auto;
     padding: 20px;
-    
+    float:left
 }
 
 img{
     float: left;
     margin: 10px;
-    width: 250px;
 }
 
 .card{
     margin:60px;
 }
-
-.about-me-card{
-    display:block;
-}
-
-.card-title{
-    color: lightgreen;
-}
-
-.container{
-    color: lightgreen;
-}
-
-.nav-link-active{
-    color: lightgreen;
-}
-
-.btn {
-    color: lightgreen;
-}
-
