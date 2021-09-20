@@ -1,16 +1,12 @@
-# Zac Jayes Responsive Portfolio
+## Personal Portfolio
 
-This file contains a responsive porfolio of Zac Jayes.  The site contains three pages.
-   * An about me page
+### [Live Site](https://jsmasterypro.com)
 
-   * A contact page
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-   * A portfolio page.
+This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
 
+In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
-There is a navigation bar at the top of the screen to direct the user to the three contact pages.  The contact page shows a picture of myself along with a short paragraph describing myself.  The contact pages contains my email, phone number, and some text boxes to enter in another person's information along with a short message.  The portfolio contains five future projects that I will add to my site.   
-
-
-The pictures below are screenshots of the responsice portfolio.
-
- 
+Setup:
+- run ```npm i && npm start```
