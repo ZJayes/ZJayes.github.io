@@ -1,0 +1,13 @@
+
+/* .profilePic{
+    float: left;
+    margin: 10px;
+} */
+
+
+
+.inspirationQuote{
+      width: 100%;
+      height: 400px;
+      background: url("assets/images/inspirationQuote.png")
+}
